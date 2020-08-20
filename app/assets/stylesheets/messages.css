@@ -15,23 +15,28 @@
 
 .side_header{
   height: 100px;
+  padding: 0 20px;
 }
 
 .side_channel{
   background-color: #2f3e51;
   height: calc(100vh - 100px);
+  padding: 0 20px;
 }
 
 .main_header{
   height: 100px;
+  padding: 0 40px;
 }
 
 .chat{ 
   height: calc(100vh - 100px - 90px);
   background-color: #FAFAFA;
+  padding: 46px 40px 0 40px;
 }
 
 .form{
   height: 90px;
   background-color: #DDDDDD;
+  padding: 20px 40px;
 }
